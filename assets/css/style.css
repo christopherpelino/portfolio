@@ -1,0 +1,55 @@
+body {
+	background-image: url(../images/bg.jpg);
+	/*background-color:  #4885ed;*/
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-repeat:  no-repeat;
+	color: #fff; /*white*/
+	font-family: 'Lora', serif;
+	height: 100vh;
+
+
+}
+
+h1{
+	font-size: 50px;
+	margin-bottom: 0;
+	 /*off-black*/
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: black;
+}
+
+h2 {
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: black;
+
+}
+
+#me {
+	height: 200px;
+	width:  200px;
+	border-radius: 50%;
+	border-width: 5px;
+	border-style: solid;
+	border-color: white;
+	margin-top: 70px;
+
+}
+
+.bio {
+	width: 100%;
+	font-size: 20px;
+	line-height: 1.5;
+	background-color: rgba(255,255,255, 0.5);
+	color: black;
+	
+}
+.container {
+	width: 700px;
+	margin: 0 auto;
+	text-align: center;
+	}
